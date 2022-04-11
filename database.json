@@ -21,9 +21,5 @@
     "user": "postgres",
     "password": "joe1234",
     "port": 5432
-  },
-  "production": {
-    "driver": "pg",
-    "DATABASE_URL": "postgres://gxqbcoeszmtomz:586ca6fd1f00b2de874483c5b23ba2ae8375a8fcc386a95a738928d40765113a@ec2-52-203-118-49.compute-1.amazonaws.com:5432/d6rd4kglg4ho85?sslmode=disable"
   }
 }
