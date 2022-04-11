@@ -16,7 +16,7 @@ Orders
 
 - showUserOrders [Current Order by user] : 'orders/:id' [GET]
 - Create : 'orders/create' [POST]
-- addProduct : 'orders/:id/products' [POST]
+- addProduct : 'orders/' [POST]
 
 Data Shapes
 Product
